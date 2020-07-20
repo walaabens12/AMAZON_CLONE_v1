@@ -1,0 +1,16 @@
+.footer_copyright_Salem {
+    width: 100%;
+    height : 200px;
+    background-color: #131921;
+    text-align: center;
+}
+.p_tag {
+    color : white;
+    padding-top: 70px;
+    
+}
+.p_tag > a {
+    text-decoration: none;
+    color : whitesmoke
+
+}

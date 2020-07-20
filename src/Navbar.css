@@ -1,0 +1,97 @@
+.header {
+    background-color: #131921;
+    display : flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.after_Search_Bar {
+    display : flex;
+    justify-content: space-evenly;
+    
+} 
+
+.Header_Amazon_Logo {
+    width: 100px;
+    margin-top : 18px;
+    margin-left  : 10px;
+    margin-right : 20px ;
+    cursor: pointer;
+    object-fit: contain;
+}
+.Header_Amazon_SearchIcon {
+    padding : 5px;
+    background-color: orange;
+    height : auto !important;
+    cursor: pointer;
+    width:  30px !important;
+}
+.Search_Bar {
+    display : flex;
+  
+}
+.Header_search_bar {
+    display: flex;
+    justify-content: center;
+    height : 20px;
+    width: 900px;
+    padding: 10px;
+    border : none;
+    font-size: x-large;
+    font-style: oblique;
+    outline-color: orange;
+}
+.Header_Link {
+    color : white;
+    text-decoration: none;
+    margin : 0  20px;
+}
+.Header_option {
+    margin-top : 5px;
+    display : flex ;
+    flex-direction: column;
+    margin-left : 10px;
+    margin-right : 10px;
+}
+
+.Header_option_ligne_1{
+    font-size: 13px;
+}
+.Header_option_ligne_2{
+    font-size: 16px;
+    font-weight: bold;
+}
+.shopping_option_basket {
+    display: flex;
+    flex-direction: row !important;
+    margin-left : 10px;
+    margin-top : 10px;
+    
+}
+.shopping_icon {
+    color : white;
+    margin-top : 7px;
+    
+}
+.Counter_items {
+    text-decoration: none;
+    color : white;
+    position: relative;
+    left : 7px;
+}
+.Charyou {
+    color : white;
+    margin : 10px;
+    margin-left: 0px !important;
+}
+.counting_items{
+    color : white;
+    text-decoration: none;
+    margin-top : 10px;
+    margin-right: 0px !important;
+}
+.Last_Pick {
+    display: flex;
+    justify-content: center;
+
+}
